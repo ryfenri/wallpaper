@@ -1,25 +1,30 @@
 <div align="center">
-    <img src="Bocchi-the-Rock/kessoku-band-sakuraTree.png" alt="Github-Image">
+    <img src="Bocchi-the-Rock/ryo_bass.jpg" alt="Github-Image">
 </div>
 
 # My wallpaper collection
 
+- **All**
+    - All the below categories 
+- **Blue Archive**
+- **Call of the Night**
+- **Cyberpunk Edgerunners**
+- **Dandadan**
+- **DDLC**
+- **Frieren**
+- **Hollow Knight**
 - **Genshin Impact**
-  - Genshin Impact Characters
 - **Bocchi the Rock**
-  - Bocchi the Rock Characters
 - **Anime Characters**
-  - Anime Characters
 - **Honkai Star Rail**
-  - Honkai Star Rail Characters
+- **Project Sekai**
 - **Vtubers**
-  - Vtubers
 - **Others**
-  - All other things without the above categories
+    - All other things without the being from the above categories
 
 # Disclaimer
 
-These wallpapers are not mine were made by others.
+These wallpapers are not mine they were made by others.
 
 ## Authors
 
